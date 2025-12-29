@@ -42,10 +42,10 @@ This project focuses on real-time search and array filtering.
 ## Live Demos
 
 ### Reminder App
-https://aarya849.github.io/JavaScript-Projects/reminder app/
+https://aarya849.github.io/JavaScript-Projects/reminder%20app/
 
 ### Search Bar
-https://aarya849.github.io/JavaScript-Projects/search bar/
+https://aarya849.github.io/JavaScript-Projects/search%20bar/
 
 
 ## Author
