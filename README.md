@@ -39,6 +39,15 @@ This project focuses on real-time search and array filtering.
 2. Open any project folder.
 3. Run the `index.html` file in a web browser.
 
+## Live Demos
+
+### Reminder App
+https://aarya849.github.io/JavaScript-Projects/reminder app/
+
+### Search Bar
+https://aarya849.github.io/JavaScript-Projects/search bar/
+
+
 ## Author
 
 Aarya Sharma
