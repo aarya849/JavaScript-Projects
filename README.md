@@ -45,7 +45,7 @@ This project focuses on real-time search and array filtering.
 https://aarya849.github.io/JavaScript-Projects/reminder%20app/
 
 ### Search Bar
-https://aarya849.github.io/JavaScript-Projects/search%20bar/
+https://aarya849.github.io/JavaScript-Projects/search-bar/
 
 
 ## Author
